@@ -21,4 +21,4 @@ Advertising budget | $ 30,000 | $ 15,000 | $ 10,000
 Professional services budget | $ 9,000 | $ 3,000 | $ 4,000
 Expected exposure | 130,000 | 60,000 | 50,000
 
-Find the best combination of advertisements within the budget to maximize the exposure, thus making sure Claire's campaign is successful.
+Challenges is to find the best combination of advertisements within the budget to maximize the exposure, thus making sure Claire's campaign is successful.
